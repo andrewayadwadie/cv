@@ -6,8 +6,8 @@ This repository holds the latest version of Andrew Ayad's CV.
 
 | File | Description |
 |------|-------------|
-| [Andrew_Ayad_CV.pdf](Andrew_Ayad_CV.pdf) | CV in PDF format, ready to view or download |
-| [Andrew_Ayad_CV.docx](Andrew_Ayad_CV.docx) | Editable Word version of the CV |
+| [Andrew_Ayad_Flutter_Developer_CV.pdf](Andrew_Ayad_Flutter_Developer_CV.pdf) | CV in PDF format, ready to view or download |
+| [Andrew_Ayad_Flutter_Developer_CV.docx](Andrew_Ayad_Flutter_Developer_CV.docx) | Editable Word version of the CV |
 
 ## Usage
 
